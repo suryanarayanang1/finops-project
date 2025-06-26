@@ -26,4 +26,7 @@ Tools & Technologies
 
 ---
 
+Report on FinOps Dashboard
+[FinOpsDashboardReport.docx](https://github.com/user-attachments/files/20929232/FinOpsDashboardReport.docx)
+
 
